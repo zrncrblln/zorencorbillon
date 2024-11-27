@@ -6,7 +6,7 @@
 
 ### 👩🏻‍💻 About Me
 
-- 🔭 I’m in my 3rd year as a computer engineering student.
+- 🔭 I’m in my 4th year as a computer engineering student.
 - 🌱 I’m currently learning Web development, Java, and algorithms.
 
 
